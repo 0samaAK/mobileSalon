@@ -49,8 +49,8 @@ export default function LoginPage() {
                         <path d="M1.83333 11.6666H2.78333L9.3 5.14995L8.35 4.19995L1.83333 10.7166V11.6666ZM0.5 13V10.1666L10.25 0.449951L13.0333 3.29995L3.33333 13H0.5ZM8.81667 4.68328L8.35 4.19995L9.3 5.14995L8.81667 4.68328Z" fill="#525252"/>
                     </svg>
                 </div>
-                <button className="w-full bg-black text-white py-[11px] mt-5 gap-[10px] px-[35px] font-[700px] text-[12px] tracking-[3px] figtree-font">SAVE</button>
-                <button className="w-full border border-black text-black mt-5 gap-[10px] py-[11px]  px-[35px] font-[700px] text-[12px] tracking-[3px] figtree-font">CANCEL</button>
+                <button className="w-full bg-black text-white py-[11px] mt-5 gap-[10px] px-[35px] font-[700px] text-[12px] tracking-[3px] leading-[16px] figtree-font">SAVE</button>
+                <button className="w-full border border-black text-black mt-5 gap-[10px] py-[11px]  px-[35px] font-[700px] text-[12px] tracking-[3px] leading-[16px] figtree-font">CANCEL</button>
             </form>
         </div>
       </div>
