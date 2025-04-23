@@ -26,7 +26,7 @@ export default function Navbar() {
         <FaSearch className="cursor-pointer" />
         <FaInstagram className="cursor-pointer" />
         <FaFacebookF className="cursor-pointer" />
-        <button className="ml-4 bg-white text-black text-[12px] font-[500px] figtree-font  px-6 py-3 uppercase tracking-[3px]">
+        <button className="ml-4 bg-white text-black text-[12px] font-[500] figtree-font  px-6 py-3 uppercase tracking-[3px]">
           Book Appointment
         </button>
       </div>

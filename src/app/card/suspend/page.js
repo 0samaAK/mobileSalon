@@ -17,11 +17,11 @@ export default function LoginPage() {
         </div> */}
         <div className="flex flex-col justify-center">
             <div>
-                <h1 className="text-[#525252] font-[600px] text-[20px] leading-[24px] figtree-font">Are you sure you want to Suspend this Stylist?</h1>
+                <h1 className="text-[#525252] font-[600] text-[20px] leading-[24px] figtree-font">Are you sure you want to Suspend this Stylist?</h1>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-[24px] mt-10 font-[500px] text-[#B8B8B8]">
-                <button className="w-full bg-black text-white py-[11px] mt-5 gap-[10px] px-[35px] font-[700px] text-[12px] tracking-[3px] leading-[16px] figtree-font">YES</button>
-                <button className="w-full border border-black text-black mt-5 gap-[10px] py-[11px]  px-[35px] font-[700px] text-[12px] tracking-[3px] leading-[16px] figtree-font">NO</button>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-[24px] mt-10 font-[500] text-[#B8B8B8]">
+                <button className="w-full bg-black text-white py-[11px] mt-5 gap-[10px] px-[35px] font-[700] text-[12px] tracking-[3px] leading-[16px] figtree-font">YES</button>
+                <button className="w-full border border-black text-black mt-5 gap-[10px] py-[11px]  px-[35px] font-[700] text-[12px] tracking-[3px] leading-[16px] figtree-font">NO</button>
             </div>
         </div>
       </div>
