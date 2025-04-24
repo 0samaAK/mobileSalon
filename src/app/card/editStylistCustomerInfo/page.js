@@ -20,8 +20,20 @@ export default function LoginPage() {
                 <div>
                     <img src="/UserImage.png" alt="profile photo"/>
                 </div>
+                <div className="border flex justify-between items-center px-[16px] py-[8px] gap-[10px] rounded border-[#A0A0A0]">
+                    <button className="text-[#A0A0A0] figtree-font text-[12px] font-[400]">Upload Photo</button>
+                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <mask id="mask0_687_229" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+                            <rect width="16" height="16" fill="#D9D9D9"/>
+                        </mask>
+                        <g mask="url(#mask0_687_229)">
+                            <path d="M2 13.9999V1.99992H8.66667V3.33325H3.33333V12.6666H12.6667V7.99992H14V13.9999H2ZM4 11.3333H12L9.5 7.99992L7.5 10.6666L6 8.66659L4 11.3333ZM12 6.66659V3.88325L10.9333 4.93325L10 3.99992L12.6667 1.33325L15.3333 3.99992L14.4 4.93325L13.3333 3.88325V6.66659H12Z" fill="#A0A0A0"/>
+                        </g>
+                    </svg>
+                </div>
                 <button>
-                    <img src="/Button.png" alt="button"/>
+
+                    {/* <img src="/Button.png" alt="button"/> */}
                 </button>
             </div>
             <form className="grid grid-cols-1 md:grid-cols-2 gap-[24px] mt-10 font-[500px] text-[#B8B8B8]">
