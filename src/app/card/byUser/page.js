@@ -92,16 +92,16 @@ const ByUser = () => {
                     </div>
                     <hr className='mt-2 border-[#E7E7E7]'/>
                     <div className='max-h-[469px] overflow-y-auto'>
-                        <div>
+                    <div>
                             <div className='flex justify-between items-center p-[12px]'>
-                                <div className='flex gap-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
                                     <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
                                     <div className='flex flex-col items-start justify-start'>
                                         <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
                                         <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
                                     </div>
                                 </div>
-                                <div className='flex gap-[16px] items-center justify-center'>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
                                     <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
                                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
@@ -119,14 +119,14 @@ const ByUser = () => {
                         </div>
                         <div>
                             <div className='flex justify-between items-center p-[12px]'>
-                                <div className='flex gap-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
                                     <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
                                     <div className='flex flex-col items-start justify-start'>
                                         <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
                                         <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
                                     </div>
                                 </div>
-                                <div className='flex gap-[16px] items-center justify-center'>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
                                     <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
                                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
@@ -144,14 +144,14 @@ const ByUser = () => {
                         </div>
                         <div>
                             <div className='flex justify-between items-center p-[12px]'>
-                                <div className='flex gap-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
                                     <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
                                     <div className='flex flex-col items-start justify-start'>
                                         <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
                                         <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
                                     </div>
                                 </div>
-                                <div className='flex gap-[16px] items-center justify-center'>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
                                     <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
                                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
@@ -169,14 +169,14 @@ const ByUser = () => {
                         </div>
                         <div>
                             <div className='flex justify-between items-center p-[12px]'>
-                                <div className='flex gap-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
                                     <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
                                     <div className='flex flex-col items-start justify-start'>
                                         <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
                                         <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
                                     </div>
                                 </div>
-                                <div className='flex gap-[16px] items-center justify-center'>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
                                     <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
                                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
@@ -194,14 +194,14 @@ const ByUser = () => {
                         </div>
                         <div>
                             <div className='flex justify-between items-center p-[12px]'>
-                                <div className='flex gap-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
                                     <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
                                     <div className='flex flex-col items-start justify-start'>
                                         <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
                                         <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
                                     </div>
                                 </div>
-                                <div className='flex gap-[16px] items-center justify-center'>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
                                     <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
                                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
@@ -219,14 +219,14 @@ const ByUser = () => {
                         </div>
                         <div>
                             <div className='flex justify-between items-center p-[12px]'>
-                                <div className='flex gap-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
                                     <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
                                     <div className='flex flex-col items-start justify-start'>
                                         <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
                                         <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
                                     </div>
                                 </div>
-                                <div className='flex gap-[16px] items-center justify-center'>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
                                     <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
                                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
@@ -244,14 +244,14 @@ const ByUser = () => {
                         </div>
                         <div>
                             <div className='flex justify-between items-center p-[12px]'>
-                                <div className='flex gap-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
                                     <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
                                     <div className='flex flex-col items-start justify-start'>
                                         <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
                                         <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
                                     </div>
                                 </div>
-                                <div className='flex gap-[16px] items-center justify-center'>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
                                     <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
                                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
@@ -269,14 +269,14 @@ const ByUser = () => {
                         </div>
                         <div>
                             <div className='flex justify-between items-center p-[12px]'>
-                                <div className='flex gap-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
                                     <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
                                     <div className='flex flex-col items-start justify-start'>
                                         <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
                                         <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
                                     </div>
                                 </div>
-                                <div className='flex gap-[16px] items-center justify-center'>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
                                     <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
                                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
@@ -294,14 +294,14 @@ const ByUser = () => {
                         </div>
                         <div>
                             <div className='flex justify-between items-center p-[12px]'>
-                                <div className='flex gap-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
                                     <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
                                     <div className='flex flex-col items-start justify-start'>
                                         <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
                                         <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
                                     </div>
                                 </div>
-                                <div className='flex gap-[16px] items-center justify-center'>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
                                     <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
                                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
@@ -319,14 +319,14 @@ const ByUser = () => {
                         </div>
                         <div>
                             <div className='flex justify-between items-center p-[12px]'>
-                                <div className='flex gap-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
                                     <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
                                     <div className='flex flex-col items-start justify-start'>
                                         <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
                                         <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
                                     </div>
                                 </div>
-                                <div className='flex gap-[16px] items-center justify-center'>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
                                     <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
                                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
@@ -344,14 +344,14 @@ const ByUser = () => {
                         </div>
                         <div>
                             <div className='flex justify-between items-center p-[12px]'>
-                                <div className='flex gap-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
                                     <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
                                     <div className='flex flex-col items-start justify-start'>
                                         <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
                                         <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
                                     </div>
                                 </div>
-                                <div className='flex gap-[16px] items-center justify-center'>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
                                     <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
                                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
@@ -369,14 +369,14 @@ const ByUser = () => {
                         </div>
                         <div>
                             <div className='flex justify-between items-center p-[12px]'>
-                                <div className='flex gap-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
                                     <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
                                     <div className='flex flex-col items-start justify-start'>
                                         <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
                                         <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
                                     </div>
                                 </div>
-                                <div className='flex gap-[16px] items-center justify-center'>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
                                     <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
                                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
@@ -394,14 +394,14 @@ const ByUser = () => {
                         </div>
                         <div>
                             <div className='flex justify-between items-center p-[12px]'>
-                                <div className='flex gap-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
                                     <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
                                     <div className='flex flex-col items-start justify-start'>
                                         <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
                                         <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
                                     </div>
                                 </div>
-                                <div className='flex gap-[16px] items-center justify-center'>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
                                     <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
                                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
@@ -419,14 +419,14 @@ const ByUser = () => {
                         </div>
                         <div>
                             <div className='flex justify-between items-center p-[12px]'>
-                                <div className='flex gap-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
                                     <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
                                     <div className='flex flex-col items-start justify-start'>
                                         <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
                                         <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
                                     </div>
                                 </div>
-                                <div className='flex gap-[16px] items-center justify-center'>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
                                     <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
                                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
@@ -444,14 +444,14 @@ const ByUser = () => {
                         </div>
                         <div>
                             <div className='flex justify-between items-center p-[12px]'>
-                                <div className='flex gap-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
                                     <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
                                     <div className='flex flex-col items-start justify-start'>
                                         <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
                                         <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
                                     </div>
                                 </div>
-                                <div className='flex gap-[16px] items-center justify-center'>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
                                     <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
                                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
@@ -469,14 +469,14 @@ const ByUser = () => {
                         </div>
                         <div>
                             <div className='flex justify-between items-center p-[12px]'>
-                                <div className='flex gap-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
                                     <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
                                     <div className='flex flex-col items-start justify-start'>
                                         <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
                                         <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
                                     </div>
                                 </div>
-                                <div className='flex gap-[16px] items-center justify-center'>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
                                     <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
                                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
@@ -494,14 +494,14 @@ const ByUser = () => {
                         </div>
                         <div>
                             <div className='flex justify-between items-center p-[12px]'>
-                                <div className='flex gap-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
                                     <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
                                     <div className='flex flex-col items-start justify-start'>
                                         <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
                                         <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
                                     </div>
                                 </div>
-                                <div className='flex gap-[16px] items-center justify-center'>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
                                     <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
                                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
@@ -519,14 +519,14 @@ const ByUser = () => {
                         </div>
                         <div>
                             <div className='flex justify-between items-center p-[12px]'>
-                                <div className='flex gap-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
                                     <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
                                     <div className='flex flex-col items-start justify-start'>
                                         <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
                                         <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
                                     </div>
                                 </div>
-                                <div className='flex gap-[16px] items-center justify-center'>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
                                     <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
                                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
@@ -542,7 +542,581 @@ const ByUser = () => {
                             </div>
                             <hr className='border-[#E7E7E7]'/>
                         </div>
-                        
+                        <div>
+                            <div className='flex justify-between items-center p-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
+                                    <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
+                                    <div className='flex flex-col items-start justify-start'>
+                                        <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
+                                        <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
+                                    </div>
+                                </div>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
+                                    <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
+                                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
+                                        <mask id="mask0_709_2688" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="16">
+                                            <rect x="8" y="8" width="16" height="16" fill="#D9D9D9"/>
+                                        </mask>
+                                        <g mask="url(#mask0_709_2688)">
+                                            <path d="M15.3333 22V16.6667H10V15.3333H15.3333V10H16.6667V15.3333H22V16.6667H16.6667V22H15.3333Z" fill="#363636"/>
+                                        </g>
+                                    </svg>
+
+                                </div>
+                            </div>
+                            <hr className='border-[#E7E7E7]'/>
+                        </div>
+                        <div>
+                            <div className='flex justify-between items-center p-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
+                                    <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
+                                    <div className='flex flex-col items-start justify-start'>
+                                        <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
+                                        <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
+                                    </div>
+                                </div>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
+                                    <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
+                                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
+                                        <mask id="mask0_709_2688" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="16">
+                                            <rect x="8" y="8" width="16" height="16" fill="#D9D9D9"/>
+                                        </mask>
+                                        <g mask="url(#mask0_709_2688)">
+                                            <path d="M15.3333 22V16.6667H10V15.3333H15.3333V10H16.6667V15.3333H22V16.6667H16.6667V22H15.3333Z" fill="#363636"/>
+                                        </g>
+                                    </svg>
+
+                                </div>
+                            </div>
+                            <hr className='border-[#E7E7E7]'/>
+                        </div>
+                        <div>
+                            <div className='flex justify-between items-center p-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
+                                    <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
+                                    <div className='flex flex-col items-start justify-start'>
+                                        <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
+                                        <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
+                                    </div>
+                                </div>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
+                                    <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
+                                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
+                                        <mask id="mask0_709_2688" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="16">
+                                            <rect x="8" y="8" width="16" height="16" fill="#D9D9D9"/>
+                                        </mask>
+                                        <g mask="url(#mask0_709_2688)">
+                                            <path d="M15.3333 22V16.6667H10V15.3333H15.3333V10H16.6667V15.3333H22V16.6667H16.6667V22H15.3333Z" fill="#363636"/>
+                                        </g>
+                                    </svg>
+
+                                </div>
+                            </div>
+                            <hr className='border-[#E7E7E7]'/>
+                        </div>
+                        <div>
+                            <div className='flex justify-between items-center p-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
+                                    <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
+                                    <div className='flex flex-col items-start justify-start'>
+                                        <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
+                                        <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
+                                    </div>
+                                </div>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
+                                    <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
+                                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
+                                        <mask id="mask0_709_2688" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="16">
+                                            <rect x="8" y="8" width="16" height="16" fill="#D9D9D9"/>
+                                        </mask>
+                                        <g mask="url(#mask0_709_2688)">
+                                            <path d="M15.3333 22V16.6667H10V15.3333H15.3333V10H16.6667V15.3333H22V16.6667H16.6667V22H15.3333Z" fill="#363636"/>
+                                        </g>
+                                    </svg>
+
+                                </div>
+                            </div>
+                            <hr className='border-[#E7E7E7]'/>
+                        </div>
+                        <div>
+                            <div className='flex justify-between items-center p-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
+                                    <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
+                                    <div className='flex flex-col items-start justify-start'>
+                                        <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
+                                        <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
+                                    </div>
+                                </div>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
+                                    <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
+                                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
+                                        <mask id="mask0_709_2688" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="16">
+                                            <rect x="8" y="8" width="16" height="16" fill="#D9D9D9"/>
+                                        </mask>
+                                        <g mask="url(#mask0_709_2688)">
+                                            <path d="M15.3333 22V16.6667H10V15.3333H15.3333V10H16.6667V15.3333H22V16.6667H16.6667V22H15.3333Z" fill="#363636"/>
+                                        </g>
+                                    </svg>
+
+                                </div>
+                            </div>
+                            <hr className='border-[#E7E7E7]'/>
+                        </div>
+                        <div>
+                            <div className='flex justify-between items-center p-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
+                                    <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
+                                    <div className='flex flex-col items-start justify-start'>
+                                        <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
+                                        <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
+                                    </div>
+                                </div>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
+                                    <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
+                                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
+                                        <mask id="mask0_709_2688" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="16">
+                                            <rect x="8" y="8" width="16" height="16" fill="#D9D9D9"/>
+                                        </mask>
+                                        <g mask="url(#mask0_709_2688)">
+                                            <path d="M15.3333 22V16.6667H10V15.3333H15.3333V10H16.6667V15.3333H22V16.6667H16.6667V22H15.3333Z" fill="#363636"/>
+                                        </g>
+                                    </svg>
+
+                                </div>
+                            </div>
+                            <hr className='border-[#E7E7E7]'/>
+                        </div>
+                        <div>
+                            <div className='flex justify-between items-center p-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
+                                    <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
+                                    <div className='flex flex-col items-start justify-start'>
+                                        <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
+                                        <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
+                                    </div>
+                                </div>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
+                                    <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
+                                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
+                                        <mask id="mask0_709_2688" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="16">
+                                            <rect x="8" y="8" width="16" height="16" fill="#D9D9D9"/>
+                                        </mask>
+                                        <g mask="url(#mask0_709_2688)">
+                                            <path d="M15.3333 22V16.6667H10V15.3333H15.3333V10H16.6667V15.3333H22V16.6667H16.6667V22H15.3333Z" fill="#363636"/>
+                                        </g>
+                                    </svg>
+
+                                </div>
+                            </div>
+                            <hr className='border-[#E7E7E7]'/>
+                        </div>
+                        <div>
+                            <div className='flex justify-between items-center p-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
+                                    <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
+                                    <div className='flex flex-col items-start justify-start'>
+                                        <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
+                                        <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
+                                    </div>
+                                </div>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
+                                    <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
+                                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
+                                        <mask id="mask0_709_2688" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="16">
+                                            <rect x="8" y="8" width="16" height="16" fill="#D9D9D9"/>
+                                        </mask>
+                                        <g mask="url(#mask0_709_2688)">
+                                            <path d="M15.3333 22V16.6667H10V15.3333H15.3333V10H16.6667V15.3333H22V16.6667H16.6667V22H15.3333Z" fill="#363636"/>
+                                        </g>
+                                    </svg>
+
+                                </div>
+                            </div>
+                            <hr className='border-[#E7E7E7]'/>
+                        </div>
+                        <div>
+                            <div className='flex justify-between items-center p-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
+                                    <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
+                                    <div className='flex flex-col items-start justify-start'>
+                                        <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
+                                        <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
+                                    </div>
+                                </div>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
+                                    <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
+                                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
+                                        <mask id="mask0_709_2688" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="16">
+                                            <rect x="8" y="8" width="16" height="16" fill="#D9D9D9"/>
+                                        </mask>
+                                        <g mask="url(#mask0_709_2688)">
+                                            <path d="M15.3333 22V16.6667H10V15.3333H15.3333V10H16.6667V15.3333H22V16.6667H16.6667V22H15.3333Z" fill="#363636"/>
+                                        </g>
+                                    </svg>
+
+                                </div>
+                            </div>
+                            <hr className='border-[#E7E7E7]'/>
+                        </div>
+                        <div>
+                            <div className='flex justify-between items-center p-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
+                                    <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
+                                    <div className='flex flex-col items-start justify-start'>
+                                        <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
+                                        <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
+                                    </div>
+                                </div>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
+                                    <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
+                                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
+                                        <mask id="mask0_709_2688" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="16">
+                                            <rect x="8" y="8" width="16" height="16" fill="#D9D9D9"/>
+                                        </mask>
+                                        <g mask="url(#mask0_709_2688)">
+                                            <path d="M15.3333 22V16.6667H10V15.3333H15.3333V10H16.6667V15.3333H22V16.6667H16.6667V22H15.3333Z" fill="#363636"/>
+                                        </g>
+                                    </svg>
+
+                                </div>
+                            </div>
+                            <hr className='border-[#E7E7E7]'/>
+                        </div>
+                        <div>
+                            <div className='flex justify-between items-center p-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
+                                    <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
+                                    <div className='flex flex-col items-start justify-start'>
+                                        <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
+                                        <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
+                                    </div>
+                                </div>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
+                                    <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
+                                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
+                                        <mask id="mask0_709_2688" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="16">
+                                            <rect x="8" y="8" width="16" height="16" fill="#D9D9D9"/>
+                                        </mask>
+                                        <g mask="url(#mask0_709_2688)">
+                                            <path d="M15.3333 22V16.6667H10V15.3333H15.3333V10H16.6667V15.3333H22V16.6667H16.6667V22H15.3333Z" fill="#363636"/>
+                                        </g>
+                                    </svg>
+
+                                </div>
+                            </div>
+                            <hr className='border-[#E7E7E7]'/>
+                        </div>
+                        <div>
+                            <div className='flex justify-between items-center p-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
+                                    <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
+                                    <div className='flex flex-col items-start justify-start'>
+                                        <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
+                                        <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
+                                    </div>
+                                </div>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
+                                    <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
+                                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
+                                        <mask id="mask0_709_2688" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="16">
+                                            <rect x="8" y="8" width="16" height="16" fill="#D9D9D9"/>
+                                        </mask>
+                                        <g mask="url(#mask0_709_2688)">
+                                            <path d="M15.3333 22V16.6667H10V15.3333H15.3333V10H16.6667V15.3333H22V16.6667H16.6667V22H15.3333Z" fill="#363636"/>
+                                        </g>
+                                    </svg>
+
+                                </div>
+                            </div>
+                            <hr className='border-[#E7E7E7]'/>
+                        </div>
+                        <div>
+                            <div className='flex justify-between items-center p-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
+                                    <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
+                                    <div className='flex flex-col items-start justify-start'>
+                                        <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
+                                        <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
+                                    </div>
+                                </div>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
+                                    <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
+                                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
+                                        <mask id="mask0_709_2688" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="16">
+                                            <rect x="8" y="8" width="16" height="16" fill="#D9D9D9"/>
+                                        </mask>
+                                        <g mask="url(#mask0_709_2688)">
+                                            <path d="M15.3333 22V16.6667H10V15.3333H15.3333V10H16.6667V15.3333H22V16.6667H16.6667V22H15.3333Z" fill="#363636"/>
+                                        </g>
+                                    </svg>
+
+                                </div>
+                            </div>
+                            <hr className='border-[#E7E7E7]'/>
+                        </div>
+                        <div>
+                            <div className='flex justify-between items-center p-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
+                                    <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
+                                    <div className='flex flex-col items-start justify-start'>
+                                        <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
+                                        <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
+                                    </div>
+                                </div>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
+                                    <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
+                                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
+                                        <mask id="mask0_709_2688" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="16">
+                                            <rect x="8" y="8" width="16" height="16" fill="#D9D9D9"/>
+                                        </mask>
+                                        <g mask="url(#mask0_709_2688)">
+                                            <path d="M15.3333 22V16.6667H10V15.3333H15.3333V10H16.6667V15.3333H22V16.6667H16.6667V22H15.3333Z" fill="#363636"/>
+                                        </g>
+                                    </svg>
+
+                                </div>
+                            </div>
+                            <hr className='border-[#E7E7E7]'/>
+                        </div>
+                        <div>
+                            <div className='flex justify-between items-center p-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
+                                    <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
+                                    <div className='flex flex-col items-start justify-start'>
+                                        <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
+                                        <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
+                                    </div>
+                                </div>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
+                                    <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
+                                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
+                                        <mask id="mask0_709_2688" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="16">
+                                            <rect x="8" y="8" width="16" height="16" fill="#D9D9D9"/>
+                                        </mask>
+                                        <g mask="url(#mask0_709_2688)">
+                                            <path d="M15.3333 22V16.6667H10V15.3333H15.3333V10H16.6667V15.3333H22V16.6667H16.6667V22H15.3333Z" fill="#363636"/>
+                                        </g>
+                                    </svg>
+
+                                </div>
+                            </div>
+                            <hr className='border-[#E7E7E7]'/>
+                        </div>
+                        <div>
+                            <div className='flex justify-between items-center p-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
+                                    <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
+                                    <div className='flex flex-col items-start justify-start'>
+                                        <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
+                                        <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
+                                    </div>
+                                </div>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
+                                    <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
+                                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
+                                        <mask id="mask0_709_2688" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="16">
+                                            <rect x="8" y="8" width="16" height="16" fill="#D9D9D9"/>
+                                        </mask>
+                                        <g mask="url(#mask0_709_2688)">
+                                            <path d="M15.3333 22V16.6667H10V15.3333H15.3333V10H16.6667V15.3333H22V16.6667H16.6667V22H15.3333Z" fill="#363636"/>
+                                        </g>
+                                    </svg>
+
+                                </div>
+                            </div>
+                            <hr className='border-[#E7E7E7]'/>
+                        </div>
+                        <div>
+                            <div className='flex justify-between items-center p-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
+                                    <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
+                                    <div className='flex flex-col items-start justify-start'>
+                                        <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
+                                        <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
+                                    </div>
+                                </div>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
+                                    <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
+                                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
+                                        <mask id="mask0_709_2688" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="16">
+                                            <rect x="8" y="8" width="16" height="16" fill="#D9D9D9"/>
+                                        </mask>
+                                        <g mask="url(#mask0_709_2688)">
+                                            <path d="M15.3333 22V16.6667H10V15.3333H15.3333V10H16.6667V15.3333H22V16.6667H16.6667V22H15.3333Z" fill="#363636"/>
+                                        </g>
+                                    </svg>
+
+                                </div>
+                            </div>
+                            <hr className='border-[#E7E7E7]'/>
+                        </div>
+                        <div>
+                            <div className='flex justify-between items-center p-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
+                                    <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
+                                    <div className='flex flex-col items-start justify-start'>
+                                        <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
+                                        <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
+                                    </div>
+                                </div>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
+                                    <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
+                                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
+                                        <mask id="mask0_709_2688" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="16">
+                                            <rect x="8" y="8" width="16" height="16" fill="#D9D9D9"/>
+                                        </mask>
+                                        <g mask="url(#mask0_709_2688)">
+                                            <path d="M15.3333 22V16.6667H10V15.3333H15.3333V10H16.6667V15.3333H22V16.6667H16.6667V22H15.3333Z" fill="#363636"/>
+                                        </g>
+                                    </svg>
+
+                                </div>
+                            </div>
+                            <hr className='border-[#E7E7E7]'/>
+                        </div>
+                        <div>
+                            <div className='flex justify-between items-center p-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
+                                    <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
+                                    <div className='flex flex-col items-start justify-start'>
+                                        <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
+                                        <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
+                                    </div>
+                                </div>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
+                                    <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
+                                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
+                                        <mask id="mask0_709_2688" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="16">
+                                            <rect x="8" y="8" width="16" height="16" fill="#D9D9D9"/>
+                                        </mask>
+                                        <g mask="url(#mask0_709_2688)">
+                                            <path d="M15.3333 22V16.6667H10V15.3333H15.3333V10H16.6667V15.3333H22V16.6667H16.6667V22H15.3333Z" fill="#363636"/>
+                                        </g>
+                                    </svg>
+
+                                </div>
+                            </div>
+                            <hr className='border-[#E7E7E7]'/>
+                        </div>
+                        <div>
+                            <div className='flex justify-between items-center p-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
+                                    <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
+                                    <div className='flex flex-col items-start justify-start'>
+                                        <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
+                                        <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
+                                    </div>
+                                </div>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
+                                    <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
+                                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
+                                        <mask id="mask0_709_2688" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="16">
+                                            <rect x="8" y="8" width="16" height="16" fill="#D9D9D9"/>
+                                        </mask>
+                                        <g mask="url(#mask0_709_2688)">
+                                            <path d="M15.3333 22V16.6667H10V15.3333H15.3333V10H16.6667V15.3333H22V16.6667H16.6667V22H15.3333Z" fill="#363636"/>
+                                        </g>
+                                    </svg>
+
+                                </div>
+                            </div>
+                            <hr className='border-[#E7E7E7]'/>
+                        </div>
+                        <div>
+                            <div className='flex justify-between items-center p-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
+                                    <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
+                                    <div className='flex flex-col items-start justify-start'>
+                                        <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
+                                        <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
+                                    </div>
+                                </div>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
+                                    <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
+                                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
+                                        <mask id="mask0_709_2688" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="16">
+                                            <rect x="8" y="8" width="16" height="16" fill="#D9D9D9"/>
+                                        </mask>
+                                        <g mask="url(#mask0_709_2688)">
+                                            <path d="M15.3333 22V16.6667H10V15.3333H15.3333V10H16.6667V15.3333H22V16.6667H16.6667V22H15.3333Z" fill="#363636"/>
+                                        </g>
+                                    </svg>
+
+                                </div>
+                            </div>
+                            <hr className='border-[#E7E7E7]'/>
+                        </div>
+                        <div>
+                            <div className='flex justify-between items-center p-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
+                                    <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
+                                    <div className='flex flex-col items-start justify-start'>
+                                        <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
+                                        <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
+                                    </div>
+                                </div>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
+                                    <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
+                                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
+                                        <mask id="mask0_709_2688" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="16">
+                                            <rect x="8" y="8" width="16" height="16" fill="#D9D9D9"/>
+                                        </mask>
+                                        <g mask="url(#mask0_709_2688)">
+                                            <path d="M15.3333 22V16.6667H10V15.3333H15.3333V10H16.6667V15.3333H22V16.6667H16.6667V22H15.3333Z" fill="#363636"/>
+                                        </g>
+                                    </svg>
+
+                                </div>
+                            </div>
+                            <hr className='border-[#E7E7E7]'/>
+                        </div>
+                        <div>
+                            <div className='flex justify-between items-center p-[12px]'>
+                                <div className='flex flex-wrap gap-[12px]'>
+                                    <img src='/UserImage.png' alt='profile pic' className='w-[40px] h-[40px] rounded'/>
+                                    <div className='flex flex-col items-start justify-start'>
+                                        <h2 className='text-[#888888] text-[18px] font-[600] leading-[20px] figtree-font'>Username</h2>
+                                        <p className='text-[#B8B8B8] text-[12px] font-[500] leading-[14px]'>Designation</p>
+                                    </div>
+                                </div>
+                                <div className='flex flex-wrap gap-[16px] items-center justify-center'>
+                                    <p className='figtree-font text-[#888888] text-[22px] font-[700] leading-[24px]'>$190.38</p>
+                                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" stroke="#B8B8B8"/>
+                                        <mask id="mask0_709_2688" style={{maskType:"alpha"}} maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="16">
+                                            <rect x="8" y="8" width="16" height="16" fill="#D9D9D9"/>
+                                        </mask>
+                                        <g mask="url(#mask0_709_2688)">
+                                            <path d="M15.3333 22V16.6667H10V15.3333H15.3333V10H16.6667V15.3333H22V16.6667H16.6667V22H15.3333Z" fill="#363636"/>
+                                        </g>
+                                    </svg>
+
+                                </div>
+                            </div>
+                            <hr className='border-[#E7E7E7]'/>
+                        </div>
                     </div>
                 </div>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-[24px] mt-5 font-[500] text-[#B8B8B8]">
